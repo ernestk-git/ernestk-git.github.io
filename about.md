@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+University of San Francisco, MS of Data Science Graduate
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ernestk.social@gmail.com](mailto:ernestk.social@gmail.com)
